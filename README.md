@@ -1,7 +1,4 @@
-
-<details>
-  <summary><h2>📊 Statistics</h2></summary>
-  <div>
+<div>
     <br />
     <div>
       <a href="https://github.com/ninibear030">
@@ -27,4 +24,4 @@
       </a>
     </div>
   </div>
-</details>
+
